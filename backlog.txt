@@ -1,0 +1,6 @@
+Set-up GitHub project for coursework 
+Create Product Backlog 
+Set-up Dockerfile for project
+Create Correct branches for GitFlow workflow  - includes `master`, `develop`, and `release` branches
+Create First release  on GitHub
+Define Code of Conduct 
